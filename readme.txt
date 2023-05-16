@@ -1,2 +1,2 @@
 Hello World!
-This is a second line of text.
+This is a second line of text
